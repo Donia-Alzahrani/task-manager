@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * text=auto eol=lf
 
 *.blade.php diff=html
@@ -8,3 +9,7 @@
 
 CHANGELOG.md export-ignore
 README.md export-ignore
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> 5eba23d286ff6bf4e8c2d69dd1d8282349111738
